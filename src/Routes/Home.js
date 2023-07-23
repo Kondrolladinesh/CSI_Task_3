@@ -23,7 +23,6 @@ const Home = () => {
                 <img src={CarouselImage1} alt="logo" />
               </div>
               <div>
-                <h2></h2>
                 <img src={CarouselImage2} alt="logo" />
                 <img src={CarouselImage3} alt="top-consumption-partner" />
               </div>
