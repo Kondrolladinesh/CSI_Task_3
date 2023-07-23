@@ -109,7 +109,11 @@ color: #fff;
   max-width: 25%;
   color: gray;
 
-} 
+}
+.panel1 .services_row a{
+  color: gray;
+  text-decoration: none;
+}
 
 .CustomCarousel{
   justify-content: center;
@@ -229,16 +233,12 @@ color: #fff;
 .CelebalLifeContainer .panel1 div{
   max-width: 50% ;
   margin-left: 100px;
-  /* background-color: #BC6FF1; */
-  /* justify-content: center; */
-  /* align-items: center; */
 }
 
 .CelebalLifeContainer .panel1 img{
   height: auto;
   width: 80%;
   margin-left: 60px;
-  /* float: right; */
 }
 .CelebalLifeContainer .panel1 button{
   font-size: 22px;
